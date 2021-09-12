@@ -5,6 +5,11 @@ Notes from: React module
 Instructor: Dr. Angela Yu
 
 ## Description
+It renders without styles information about two cars:
+* Brand and model
+* Top Speed (km/h)
+* Colour
+
 
 
 ---
